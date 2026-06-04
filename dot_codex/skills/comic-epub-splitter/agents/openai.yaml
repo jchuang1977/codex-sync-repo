@@ -1,0 +1,3 @@
+display_name: Comic EPUB Splitter
+short_description: Split and compress comic EPUBs.
+default_prompt: Create an EPUB from this comic image folder, splitting two-page landscape JPGs into right page then left page, compressing each EPUB image under 1MB, and validating the result.
